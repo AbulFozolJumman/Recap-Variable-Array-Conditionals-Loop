@@ -1,6 +1,6 @@
 /* 
 ------------------
-LOOP
+iv) LOOP
 ------------------
 */
 // 1. Display "Ajke amar mon valo nei" for 39 times
@@ -19,15 +19,15 @@ LOOP
 //     console.log(i);
 // }
 
-// 4. Show all odd numbers 581 to 623
+// 4. Show all odd numbers from 581 to 623
 // for (let i = 581; i <= 623; i+=2) {
 //     console.log(i);
 // }
 
 // 5. Difference between while loop and for loop?
-// => The major difference between for loop and while loop is that in the case of for loop the number of iterations is known whereas in the case of the while loop number of iterations is unknown and the statement will run until the condition is proved false.
+// => The major difference between for loop and while loop is that in the case of for loop the number of iterations is known, whereas in the case of the while loop number of iterations is unknown and the statement will run until the condition is proved false.
 
-// 6. Declare an array for all the topics that you have learned last few days and display then as output
+// 6. Declare an array for all the topics that you have learned last few days and display them as output
 // var topics = ['HTML', 'CSS', 'BOOTSTRAP', 'TAILWIND', 'JAVASCRIPT' ];
 // for (let i = 0; i < topics.length; i++) {
 //     console.log(topics[i]);
