@@ -1,6 +1,6 @@
 /* 
 ---------------------
-ARRAY
+ii) ARRAY
 -----------------------
 1. What is the purpose of array?
 => Array use to store multiple data.
@@ -43,5 +43,5 @@ var value = phoneBrand.indexOf('Iphone');
 => varName.unshift('newValue');
 
 12. Remove the first element of an array
-=> varName.unshift();
+=> varName.shift();
 */
