@@ -1,6 +1,6 @@
 /* 
 ------------------
-VARIABLE
+i) VARIABLE
 -------------------
 1. What is JavaScript?
 => JavaScript is a high level scripting language.
@@ -55,7 +55,7 @@ Result: 2
 var banana = 11;
 var person = 5;
 console.log(banana % person);
-Result: 2
+Result: 1
 
 9. Short hand: +=, -=, *=, /=
 => += increase, -= decrease, *= multiple, /= divided
@@ -64,9 +64,9 @@ Result: 2
 => ++ increase one, -- decrease one
 
 11. parseInt, ParseFloat
-=> ParseInt for integer number type to number and ParseFloat for integer decimal number to decimal number.
+=> ParseInt for string number type to number and ParseFloat for integer decimal number to decimal number.
 
 12. toFixed
-=> Use to set the digit of decimals
+=> Use to limit the digit of decimals
 
 */
